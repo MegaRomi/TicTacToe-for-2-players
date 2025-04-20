@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946624999791",
+    "project_id": "tic-tac-toe-for-2-player-422c3",
+    "storage_bucket": "tic-tac-toe-for-2-player-422c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946624999791:android:a05f8a2998128e1570f89a",
+        "android_client_info": {
+          "package_name": "com.example.tictactoefor2players"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAit55oz0BF6sww0iWt5XOCe9NXPmm9SHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
